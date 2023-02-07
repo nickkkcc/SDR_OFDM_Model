@@ -1,0 +1,5 @@
+﻿  Model.cpp
+C:\Users\Rise\source\repos\Model\Model\Model.cpp(54): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Model.vcxproj -> C:\Users\Rise\source\repos\Model\x64\Debug\Model.exe
+  Скопировано файлов: 0.
+  Скопировано файлов: 0.
